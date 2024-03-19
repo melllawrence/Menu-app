@@ -1,0 +1,85 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "title": "Griddle Cakes",
+        "price": 6,
+        "category": "breakfast",
+        "img": "./images/item-1.jpeg",
+        "desc": "Celebrate breakfast with our artisanal griddle cakes—fluffy, golden perfection served with maple syrup and powdered sugar. It's a blissful morning treat."
+      },
+      {
+        "id": 2,
+        "title": "Twin Tower Burger",
+        "category": "lunch",
+        "price": 10.99,
+        "img": "./images/item-2.jpeg",
+        "desc": "Indulge in our Twin Tower Burger—a delicious duo of juicy beef patties, cheese, lettuce, and tomatoes between toasted buns. A satisfying delight for burger enthusiasts."
+      },
+      {
+        "id": 3,
+        "title": "Chocozilla Milkshake",
+        "category": "shakes",
+        "price": 9,
+        "img": "./images/item-3.webp",
+        "desc": "Enjoy our Chocozilla Milkshake—rich cocoa and creamy ice cream topped with whipped cream, chocolate syrup, and shavings. A true delight for chocolate lovers."
+      },
+      {
+        "id": 4,
+        "title": "Mystery bonaptit",
+        "category": "breakfast",
+        "price": 14.99,
+        "img": "./images/item-4.jpeg",
+        "desc": "Start your day with our Mystery Breakfast Plate—a delicious surprise of flavors and textures to tantalize your taste buds and fuel your morning."
+      },
+      {
+        "id": 5,
+        "title": "Eggsplosion Burger",
+        "category": "lunch",
+        "price": 12.99,
+        "img": "./images/item-5.jpeg",
+        "desc": "The Eggsplosion Burger—bursting with flavors, featuring a juicy patty topped with a perfectly cooked egg. A delightful explosion of taste in every bite."
+      },
+  
+      {
+        "id": 6,
+        "title": "Nocturnal Delight",
+        "category": "shakes",
+        "price": 9,
+        "img": "./images/item-6.jpeg",
+        "desc": "Savor our Nocturnal Delight—a creamy blend of cookies and cream, perfect for indulging in the rich flavors of midnight magic."
+      },
+      {
+        "id": 7,
+        "title": "Bacon Cascade",
+        "category": "breakfast",
+        "price": 14,
+        "img": "./images/item-7.jpeg",
+        "desc": "Dive into the Bacon Cascade—where crispy, savory bacon takes the spotlight, flooding your taste buds with irresistible flavor in every bite."
+      },
+      {
+        "id": 8,
+        "title": "Basic Burger",
+        "category": "lunch",
+        "price": 6,
+        "img": "./images/item-8.jpeg",
+        "desc": "Introducing our Classic Burger—juicy beef patty, crisp lettuce, ripe tomatoes, and tangy pickles on soft buns. A timeless favorite for burger enthusiasts."
+      },
+      {
+        "id": 9,
+        "title": "You're single",
+        "category": "shakes",
+        "price": 12,
+        "img": "./images/item-9.jpeg",
+        "desc": "Presenting our 'You're Single' XL Milkshake—an extravagant blend of creamy flavors, topped with whipped cream and sprinkles. Treat yourself to this sweet indulgence."
+      },
+      {
+        "id": 10,
+        "title": "Veggized Bison",
+        "category": "lunch",
+        "price": 19.99,
+        "img": "./images/item-10.jpeg",
+        "desc": "Try our Veggie Bison Steak—savor the rich flavors of lean bison paired perfectly with fresh garden vegetables. A hearty and wholesome dish for a satisfying meal."
+      }
+    ]
+  }
